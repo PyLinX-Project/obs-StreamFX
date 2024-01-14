@@ -7,7 +7,7 @@ If you wanna support FreeFX then support StreamFX, the guy who actually made it,
 
 The FreeFX logo uses the thumbsup emoji from [twemoji](https://twemoji.twitter.com/)
 
-# StreamFX
+# StreamFX 
 
 Bring your setup to the modern day with StreamFX! With several super fast filters, new ways to build your scenes, and new encoders you can now take your stream even further. Create cool new scenes with 3D effects, make something glow or have a shadow, or blur out content - the choice is yours!
 
